@@ -30,7 +30,7 @@ This demonstrates that the sheaf-theoretic framework improves embedding coherenc
 
 ## Report
 
-A detailed report summarizing the experiment, methodology, results, and discussion is included in this repository. Please refer to `Multimodal_Semantic_Communication_Papers_3.pdf` for a complete description.
+A detailed report summarizing the experiment, methodology, results, and discussion is included in this repository. Please refer to `[Multimodal_Semantic_Communication_Papers_3.pdf](https://github.com/MiguelBenalcazar/Multimodal_sheaf_theoretic/blob/main/Multimodal_Semantic_Communication_Papers_3.pdf)` for a complete description.
 
 ---
 
