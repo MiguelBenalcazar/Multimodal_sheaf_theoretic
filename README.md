@@ -25,8 +25,9 @@ This demonstrates that the sheaf-theoretic framework improves embedding coherenc
 
 ## Framework Illustration
 
-![Multimodal Sheaf Framework]([images/Multimodal.png](https://github.com/MiguelBenalcazar/Multimodal_sheaf_theoretic/blob/main/Multimodal.png))  
+![Multimodal Sheaf Framework](https://github.com/MiguelBenalcazar/Multimodal_sheaf_theoretic/blob/main/Multimodal.png)  
 *Figure: Visual representation of the multimodal sheaf-theoretic framework with restriction maps $P_{12}$ and $P_{21}$.*
+
 
 ## Report
 
