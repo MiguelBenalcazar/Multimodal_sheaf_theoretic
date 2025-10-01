@@ -1,0 +1,17 @@
+--image_model_name=facebook/dinov2-small
+--dataset_name=COCO
+--seed=42
+--batch_size=512
+--latent_dim=128
+--lr_layer=1.2e-2
+--lr_restriction_maps=1.3e-4
+--lambda_reg=0.015
+--lr_layer_2=1.2e-2
+--lr_restriction_maps_2=1.3e-4
+--lambda_reg_2=0.015
+--alpha=2.3e-3
+--epochs=10000
+--patience=3
+--monitor=loss
+--num_workers=3
+--VAR_THRESHOLD=1.5e-3
